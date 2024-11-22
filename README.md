@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thee@cocra.co.jp**
 
-- ⚡ Fun fact **I love exploring new technologies and often spend my weekends experimenting with the latest Android development trends**
+- ⚡ Fun fact **A passionate Software Engineer from Japan, dedicated to self-learning and continuous improvement**
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
