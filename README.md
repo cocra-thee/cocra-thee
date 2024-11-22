@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JLPT Master**
   
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **thee@cocra.co.jp**
 
